@@ -6,7 +6,7 @@ In August 2020, I returned to Butler to begin earning my Master of Business Admi
 
 [![Rachel Burke's GitHub stats](https://github-readme-stats.vercel.app/api?username=RachelBurke&count_private=true&show_icons=true&theme=transparent)](https://github.com/RachelBurke)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RachelBurke&langs_count=5)](https://github.com/RachelBurke)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RachelBurke&langs_count=5&theme=transparent)](https://github.com/RachelBurke)
 
 <!--
 **RachelBurke/RachelBurke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
