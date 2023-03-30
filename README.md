@@ -4,9 +4,9 @@ I am a proud graduate of Butler University and am currently working as a softwar
 
 In August 2020, I returned to Butler to begin earning my Master of Business Administration degree. My career goal is to work in IT management and find innovative ways for business and technology to come together to achieve company goals.
 
-[![Rachel Burke's GitHub stats](https://github-readme-stats.vercel.app/api?username=RachelBurke&count_private=true&show_icons=true&theme=transparent)](https://github.com/RachelBurke)
+[![Rachel Burke's GitHub stats](https://github-readme-stats.vercel.app/api?username=RachelBurke&count_private=true&show_icons=true&theme=transparent)]([https://github.com/RachelBurke](https://github.com/anuraghazra/github-readme-stats))
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RachelBurke&langs_count=5&theme=transparent)](https://github.com/RachelBurke)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RachelBurke&langs_count=5&theme=transparent)]([https://github.com/RachelBurke](https://github.com/anuraghazra/github-readme-stats))
 
 <!--
 **RachelBurke/RachelBurke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
