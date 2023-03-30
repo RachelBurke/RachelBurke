@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there! I am Rachel Burke 👋
+
+I am a proud graduate of Butler University and am currently working as a software developer at Experian Marketing Services. I work with an Agile team of developers to create web-based software that enables clients to find their target audience for marketing campaigns. When I'm not at my computer, I am almost always found on the pool deck. After spending over 15 years as a competitive swimmer, I am continuing to share my passion for the sport as a coach with Southeastern Swim Club.
+
+In August 2020, I returned to Butler to begin earning my Master of Business Administration degree. My career goal is to work in IT management and find innovative ways for business and technology to come together to achieve company goals.
+
+[![Rachel Burke's GitHub stats](https://github-readme-stats.vercel.app/api?username=RachelBurke&count_private=true&show_icons=true&theme=transparent)](https://github.com/RachelBurke)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RachelBurke&langs_count=5)](https://github.com/RachelBurke)
 
 <!--
 **RachelBurke/RachelBurke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
