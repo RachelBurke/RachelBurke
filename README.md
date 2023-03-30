@@ -1,4 +1,4 @@
-### Hi there! I am Rachel Burke 👋
+### Hi there, I am Rachel Burke! 👋
 
 I am a proud graduate of Butler University and am currently working as a software developer at Experian Marketing Services. I work with an Agile team of developers to create web-based software that enables clients to find their target audience for marketing campaigns. When I'm not at my computer, I am almost always found on the pool deck. After spending over 15 years as a competitive swimmer, I am continuing to share my passion for the sport as a coach with Southeastern Swim Club.
 
