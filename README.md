@@ -1,8 +1,6 @@
-### Hi there, I am Rachel Burke! 👋
+### Hi there, I am Rachel Purdum! 👋
 
-I am a proud 2-time graduate of Butler University and am a software developer at Crew Carwash. When I'm not at my computer, I am almost always found on the pool deck. After spending over 15 years as a competitive swimmer, I am continuing to share my passion for the sport as a coach with Southeastern Swim Club. 
-
-In May 2023, I completed my Master in Business Administration at Butler University. My career goal is to work in IT management and find innovative ways for business and technology to come together to achieve company goals.
+I am a proud 2-time graduate of Butler University and am a software developer at Crew Carwash. In May 2023, I completed my Master in Business Administration at Butler University. My career goal is to work in IT management and find innovative ways for business and technology to come together to achieve company goals.
 
 [![Rachel Burke's GitHub stats](https://github-readme-stats.vercel.app/api?username=RachelBurke&count_private=true&show_icons=true&theme=transparent)]([https://github.com/RachelBurke](https://github.com/anuraghazra/github-readme-stats))
 
